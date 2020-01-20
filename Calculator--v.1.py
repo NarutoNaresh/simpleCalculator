@@ -16,11 +16,9 @@ frame2.pack(side=BOTTOM)'''
 equ=StringVar()
 #declaring a string variable
 entry=Entry(frame,font=("Coureier",40,),textvariable=equ,justify=RIGHT,relief=FLAT)
-										#getting input					tile like theme
+#getting input	tile like theme
 entry.pack(ipadx=450,ipady=30)
 # frame l X b
-
-
 
 
 #######Function of the calculator#########
